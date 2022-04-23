@@ -43,7 +43,7 @@ Product.init(
         }
       }
     },
-    // define columns
+  
  
   {
     sequelize,
